@@ -1,0 +1,2 @@
+Welcome to GitDemo
+This file was created for the Git hands-on lab.
